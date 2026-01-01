@@ -26,4 +26,5 @@ Langsung buka file HamdiProgramCouple.java di VSCode atau Eclipse, lalu tekan to
 ##  Author
 
 Abdul Karim
-Mahasiswa Teknik Komputer
+Mahasiswa Informatika
+
